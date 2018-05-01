@@ -14,5 +14,5 @@ func main() {
 	resultado = matematica.Calculo(matematica.Divisor, 12, 3)
 	fmt.Printf("O resultado da divisão foi: %d\r\n", resultado)
 	resultado, resto := matematica.DivisorComResto(12, 5)
-	fmt.Printf("O resultado da divisao é: %d e o resto da divisao é %d \r\n ", resultado, resto)
+	fmt.Printf("O resultado da divisao é: %d e o resto da divisao é %d\r\n ", resultado, resto)
 }
