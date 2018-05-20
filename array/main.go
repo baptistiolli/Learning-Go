@@ -14,6 +14,7 @@ func main() {
 
 	cantores := [2]string{"Daniel", "Beatles"}
 	fmt.Printf("Conteudo do array \n\r%v\r\n", cantores)
+	// fmt.Printf("Conteudo do array \n\r%v\r\n", cantores)
 
 	capitais := [...]string{"Lisboa", "Sao Paulo", "Luanda", "Maputo"}
 
